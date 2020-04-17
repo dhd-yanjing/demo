@@ -1,6 +1,6 @@
 public class User{
 
-public int login;(){}
+public int login;(){muster做的login}
 public int register;(){}
 public int add(){}
 public List<> findall(){}
